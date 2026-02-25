@@ -1,0 +1,82 @@
+{
+    "skills": [
+        {
+            "name": "Explosion",
+            "description": "Unleashes a devastating explosion of pure magical energy. Consumes a massive amount of SP.",
+            "mana_sp_cost": 100,
+            "class": ["Wizard"]
+        },
+        {
+            "name": "Heal",
+            "description": "Restores a moderate amount of HP to a target. A fundamental healing spell.",
+            "mana_sp_cost": 20,
+            "class": ["Cleric", "Paladin"]
+        },
+        {
+            "name": "Steal",
+            "description": "Attempts to pilfer an item from a target. Success depends on dexterity and luck.",
+            "mana_sp_cost": 15,
+            "class": ["Rogue"]
+        },
+        {
+            "name": "Lullaby",
+            "description": "Sings a soothing melody that can put enemies to sleep. Affects creatures with low magical resistance.",
+            "mana_sp_cost": 25,
+            "class": ["Bard", "Fae"]
+        },
+        {
+            "name": "Fireball",
+            "description": "Hurls a searing ball of fire at a single target.",
+            "mana_sp_cost": 30,
+            "class": ["Wizard", "Sorcerer"]
+        },
+        {
+            "name": "Create Water",
+            "description": "Conjures a small amount of clean water. Useful for survival or distracting fire elementals.",
+            "mana_sp_cost": 5,
+            "class": ["Cleric", "Wizard", "Any"]
+        },
+        {
+            "name": "Sacred Break Spell",
+            "description": "A powerful anti-magic spell that can dispel enemy enchantments and barriers. Requires high spiritual focus.",
+            "mana_sp_cost": 70,
+            "class": ["Cleric"]
+        },
+        {
+            "name": "Arrow Rain",
+            "description": "Fires a volley of arrows into an area, hitting multiple targets.",
+            "mana_sp_cost": 40,
+            "class": ["Ranger"]
+        },
+        {
+            "name": "Nature's Embrace",
+            "description": "Heals minor wounds and grants a temporary boost to agility within a natural environment.",
+            "mana_sp_cost": 30,
+            "class": ["Ranger", "Druid"]
+        },
+        {
+            "name": "Shield Slam",
+            "description": "Slams a shield into an enemy, dealing blunt damage and potentially stunning them.",
+            "mana_sp_cost": 25,
+            "class": ["Warrior", "Paladin"]
+        },
+        {
+            "name": "Taunt",
+            "description": "Provokes enemies, drawing their aggression towards the caster. Essential for tanking.",
+            "mana_sp_cost": 10,
+            "class": ["Warrior"]
+        },
+        {
+            "name": "Void Matter Control",
+            "description": "Manipulates unstable void energy to create small, destructive bursts or protective barriers.",
+            "mana_sp_cost": 60,
+            "class": ["Warlock", "Shadow Weavers"]
+        },
+        {
+            "name": "The Soul Reaper",
+            "description": "Summons a spectral blade that can harvest the life force of weakened foes, restoring the caster's HP.",
+            "mana_sp_cost": 80,
+            "class": ["Necromancer", "Shadow Weavers"]
+        }
+    ]
+}
